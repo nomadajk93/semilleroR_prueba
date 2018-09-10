@@ -1,0 +1,68 @@
+---
+title: "Elementos basicos de Rmarkdown"
+author: "Juan Carlos Vargas"
+date: "10 de septiembre de 2018"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#¿Que es estadistica
+azsxdcfvgbhnjmkxcfvgbhnjkmlcgvhbjn
+
+##subtitulo
+azsxdfvghbnjkmmnuibytretrdft
+
+###subtitulo2
+azsxdtygfuvhbinkjmmljohiugyt
+
+#viñetas
+
+las viñetas se agregan con los operadores + - *
+
+ + viñeta 1
+    + viñeta1
+    - viñeta2
+    * viñeta3
+  
+ - viñeta 2
+ 
+ * viñeta 3
+
+
+#imagen
+
+<center>
+![](untitled.png)
+</center>
+
+#hipervinculo
+
+  - https://github.com/nomadajk93/semilleroR_prueba
+  
+  - [click aqui para abrir](https://github.com/nomadajk93/semilleroR_prueba)
+  
+
+#Opciones de texto
+
+*esto es cursiva*  
+
+**esto es negrilla**
+
+***esto es negrilla y cursiva***
+
+
+
+
+
+
+
+
+
+
+
